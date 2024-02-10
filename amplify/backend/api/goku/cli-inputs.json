@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "paths": {
+    "/filters": {
+      "name": "/filters",
+      "lambdaFunction": "filter",
+      "permissions": {
+        "setting": "private",
+        "auth": [
+          "create",
+          "read",
+          "update",
+          "delete"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gokuapp-dev-205224-authRole",
+      "UnauthRoleArn": "arn:aws:iam::210355799762:role/amplify-gokuapp-dev-205224-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::210355799762:role/amplify-gokuapp-dev-205224-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-gokuapp-dev-205224-deployment",
+      "UnauthRoleName": "amplify-gokuapp-dev-205224-unauthRole",
+      "StackName": "amplify-gokuapp-dev-205224",
+      "StackId": "arn:aws:cloudformation:eu-north-1:210355799762:stack/amplify-gokuapp-dev-205224/74a4a3c0-bd34-11ee-96de-0a893160ff4c",
+      "AmplifyAppId": "d1d95lr36negcx",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-gokuapp-dev-205224-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "gokuapp988c99ea": {}
+      },
+      "function": {
+        "test": {
+          "deploymentBucketName": "amplify-gokuapp-dev-205224-deployment",
+          "s3Key": "amplify-builds/test-77614b54767636777657-build.zip"
+        },
+        "gokuapp988c99eaPostConfirmation": {
+          "deploymentBucketName": "amplify-gokuapp-dev-205224-deployment",
+          "s3Key": "amplify-builds/gokuapp988c99eaPostConfirmation-424978496b386f695866-build.zip"
+        },
+        "filter": {
+          "deploymentBucketName": "amplify-gokuapp-dev-205224-deployment",
+          "s3Key": "amplify-builds/filter-4370353443584b317952-build.zip"
+        }
+      },
+      "storage": {
+        "users": {},
+        "media": {}
+      },
+      "api": {
+        "gokuApi": {}
+      }
+    }
+  }
+}

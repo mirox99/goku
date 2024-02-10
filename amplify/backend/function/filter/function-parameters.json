@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "storage": {
+      "media": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "api": {
+      "gokuApi": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}

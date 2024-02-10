@@ -1,0 +1,42 @@
+{
+  "_bodyBlob": {
+    "_data": {
+      "__collector": [
+        Object
+      ],
+      "blobId": "88F9BC20-116E-4E27-B63F-8A25F259411F",
+      "name": "filter-dev.json",
+      "offset": 0,
+      "size": 23,
+      "type": "application/json"
+    }
+  },
+  "_bodyInit": {
+    "_data": {
+      "__collector": [
+        Object
+      ],
+      "blobId": "88F9BC20-116E-4E27-B63F-8A25F259411F",
+      "name": "filter-dev.json",
+      "offset": 0,
+      "size": 23,
+      "type": "application/json"
+    }
+  },
+  "bodyUsed": false,
+  "headers": {
+    "map": {
+      "content-length": "23",
+      "content-type": "application/json",
+      "date": "Fri, 09 Feb 2024 20:47:24 GMT",
+      "x-amz-apigw-id": "S4tWfHRuAi0ErPg=",
+      "x-amzn-errortype": "ForbiddenException",
+      "x-amzn-requestid": "eb8ee06f-36b4-4151-9948-4738728495a3"
+    }
+  },
+  "ok": false,
+  "status": 403,
+  "statusText": "",
+  "type": "default",
+  "url": "https://zg83rohhqb.execute-api.eu-north-1.amazonaws.com/filter-dev"
+}
